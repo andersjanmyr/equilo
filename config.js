@@ -13,7 +13,7 @@ config = {
         url: 'http://www.equilo.se',
         mail: {},
         database: {
-            client: 'sqlite3',
+            client: 'postgres',
             connection: {
                 host: process.env.POSTGRES_HOST,
                 user: process.env.POSTGRES_USER,
@@ -30,7 +30,12 @@ config = {
             // Port to be passed to node's `net.Server#listen()`, for iisnode set this to `process.env.PORT`
             port: process.env.PORT
         },
-        fileStorage: false
+        fileStorage: false,
+        paths: {
+            contentPath: path.join(__dirname, '/content/')
+        }
+
+
     },
 
     // ### Development **(default)**
