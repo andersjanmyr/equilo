@@ -11,7 +11,16 @@ config = {
     // Configure your URL and mail settings here
     production: {
         url: 'http://www.equilo.se',
-        mail: {},
+        mail: {
+             transport: 'SMTP',
+             options: {
+                 service: 'Sendgrid',
+                 auth: {
+                      user: process.env.SENDGRID_USERNAME,
+                      user: process.env.SENDGRID_PASSWORD
+                 }
+             }
+        },
         database: {
             client: 'postgres',
             connection: {
