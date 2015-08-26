@@ -1,16 +1,19 @@
 
+NAME="equilo"
+FULL_NAME="andersjanmyr/$(NAME)"
+
 .PHONY: build
 build:
-	docker build -t andersjanmyr/equilo .
+	docker build $(FULL_NAME) .
 
 
 .PHONY: publish
 publish:
-	docker push andersjanmyr/equilo
+	docker push $(FULL_NAME)
 
 .PHONY: run
 run:
-	docker run --publish 3000:80 --name equilo --rm -it andersjanmyr/equilo
+	docker run --publish 3000:80 -it $(FULL_NAME) --name $(NAME)
 
 .PHONY: deploy
 deploy:
