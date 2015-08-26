@@ -13,7 +13,7 @@ publish:
 
 .PHONY: run
 run:
-	docker run --publish 3000:80 -it $(FULL_NAME) --name $(NAME)
+	docker run --publish 3000:80 --rm -it --name $(NAME) $(FULL_NAME)
 
 .PHONY: deploy
 deploy:
