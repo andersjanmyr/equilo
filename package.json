@@ -27,7 +27,7 @@
         "test": "./node_modules/.bin/grunt validate --verbose"
     },
     "engines": {
-        "node": "~0.10.0"
+        "node": "6.x"
     },
     "engineStrict": true,
     "dependencies": {
