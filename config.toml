@@ -1,0 +1,46 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Equilo"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+  
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "Equilo"
+    meta_og_title = "Equilo"
+    meta_og_type = "website"
+    meta_og_url = "https://equilo.se"
+    meta_og_image = ""
+    meta_og_description = "Equilo, bla, bla, bla"
+
+[[menu.main]]
+    name = "Project Management"
+    url = "/project-management/"
+    weight = 1
+
+
+[[menu.main]]
+    name = "Corporate Coaching"
+    url = "/corporate-coaching/"
+    weight = 2
+
+[[menu.main]]
+    name = "Personal Coaching"
+    url = "/personal-coaching/"
+    weight = 3
+
+[[menu.main]]
+    name = "Yoga"
+    url = "/yoga/"
+    weight = 4
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
