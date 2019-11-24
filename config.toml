@@ -3,7 +3,8 @@ languageCode = "en-us"
 title = "Equilo"
 themesDir = "themes"
 theme = "hugo-hero-theme"
-  
+publishdir="docs"
+
 [params]
   google_analytics_id=""
 
