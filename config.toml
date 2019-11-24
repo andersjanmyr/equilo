@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/equilo/"
 languageCode = "en-us"
 title = "Equilo"
 themesDir = "themes"
