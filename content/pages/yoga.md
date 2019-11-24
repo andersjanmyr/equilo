@@ -1,12 +1,12 @@
 ---
 title: 'Yoga'
 date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
+icon: 'images/yoga-icon.png'
 featured: true
 draft: false
 heroHeading: 'Yoga'
 heroSubHeading: 'Yoga instruction and guidance'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'images/sunset.png'
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
