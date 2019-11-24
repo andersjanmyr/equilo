@@ -2,59 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Equilo</title>
-    <link>/equilo/pages/</link>
+    <link>/pages/</link>
     <description>Recent content in Pages on Equilo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
     
-	<atom:link href="/equilo/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project Management</title>
-      <link>/equilo/project-management/</link>
+      <link>/project-management/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/equilo/project-management/</guid>
-      <description> Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-Project Management </description>
+      <guid>/project-management/</guid>
+      <description>I am a positive, driven and structured Senior Project Manager, Coach and Entrepreneur with 20 years of experience within the IT industry.
+My passion is to help people and organizations grow and deliver great results through pragmatic approaches where people take the central role. Processes and tools should support people and teams, not the other way around. Communication, and a bit of fun, is the key to make this work!</description>
     </item>
     
     <item>
       <title>Yoga</title>
-      <link>/equilo/yoga/</link>
+      <link>/yoga/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>/equilo/yoga/</guid>
+      <guid>/yoga/</guid>
       <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
     </item>
     
     <item>
       <title>Personal Coaching</title>
-      <link>/equilo/personal-coaching/</link>
+      <link>/personal-coaching/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>/equilo/personal-coaching/</guid>
+      <guid>/personal-coaching/</guid>
       <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/equilo/contact/</link>
+      <link>/contact/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>/equilo/contact/</guid>
+      <guid>/contact/</guid>
       <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
     </item>
     
     <item>
       <title>Corporate Coaching</title>
-      <link>/equilo/corporate-coaching/</link>
+      <link>/corporate-coaching/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>/equilo/corporate-coaching/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.</description>
+      <guid>/corporate-coaching/</guid>
+      <description>&amp;ldquo;Starta Eget&amp;rdquo; advisor with NyföretagareCentrum Öresund, based in Staffanstorps kommun. Contact me if you are thinking about starting your own company or you need advise and support.
+NyföretagarCentrum is located in more than 215 counties. Their goals is increased entrepreneurship and more small sustainable companies. Verksamheten är i huvudsak näringsfinansierad. Ger varje år ca 20.000 personer kostnadsfri, konfidentiell och objektiv rådgivning, med nöjdkundindex på 91 procent. www.nyforetagarcentrum.se/oresund</description>
     </item>
     
   </channel>
