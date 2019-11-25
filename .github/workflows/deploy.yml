@@ -4,10 +4,10 @@ on: [push]
 
 jobs:
   build:
-
+    name: Build
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v1
-    - name: Run a one-line script
-      run: echo Hello, world!
+    - name: Check out code
+      uses: actions/checkout@master
+    - name: Build Hugo
+      uses: lowply/build-hugo@v0.58.3
