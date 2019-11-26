@@ -5,5 +5,4 @@ background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'Project Management'
 buttonLink: 'project-management'
 ---
-
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+My passion is to help people and organizations grow and deliver great results through pragmatic approaches where people take the central role. Processes and tools should support people and teams, not the other way around. Communication, and a bit of fun, is the key to make this work!
