@@ -7,7 +7,7 @@ featured: false
 weight: 1
 heroHeading: 'Project Management'
 heroSubHeading: 'Professional project management for large and small projects'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'images/service1.jpg'
 ---
 
 I am a positive, driven and structured Senior Project Manager, Coach and Entrepreneur with 20 years of experience within the IT industry.

@@ -10,13 +10,13 @@ heroBackground: 'images/service2.jpg'
 ---
 
 
-"Starta Eget" advisor with NyföretagareCentrum Öresund, based in Staffanstorps
+"Starta Eget" advisor with Nyföretagarcentrum Öresund, based in Staffanstorps
 kommun. Contact me if you are thinking about starting your own company or you
 need advise and support.
 
-NyföretagarCentrum is located in more than 215 counties. Their goals is
-increased entrepreneurship and more small sustainable companies. Verksamheten
-är i huvudsak näringsfinansierad. Ger varje år ca 20.000 personer kostnadsfri,
-konfidentiell och objektiv rådgivning, med nöjdkundindex på 91 procent.
-www.nyforetagarcentrum.se/oresund
+Nyföretagarcentrum is located in more than 215 counties. Their goal is
+increased entrepreneurship and more small sustainable companies. It is mainly
+financed by local industries. Every year it gives advise to more than 20,000
+people at no individual cost. More than 90% of their customers are satisfied.
+https://www.nyforetagarcentrum.se/oresund
 

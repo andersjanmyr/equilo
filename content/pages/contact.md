@@ -5,11 +5,10 @@ icon: 'services/service-icon-2.png'
 featured: false
 draft: false
 heroHeading: 'Contact'
-heroSubHeading: 'Contact, bla, bla, bla'
-heroBackground: 'services/service2.jpg'
+heroSubHeading: ''
+heroBackground: 'images/contact.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+* Phone: +46 (0)704-32 24 90
+* Email: sara@equilo.se
 

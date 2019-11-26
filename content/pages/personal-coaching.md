@@ -6,10 +6,6 @@ featured: true
 draft: false
 heroHeading: 'Personal Coaching'
 heroSubHeading: 'Help with making decisions in your life.'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'images/personal-coaching.jpg'
 ---
-
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
 
