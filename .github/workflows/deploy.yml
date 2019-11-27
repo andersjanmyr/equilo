@@ -19,7 +19,8 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
-        git commit -m "Generate site"
+        # Commit if anything has changed
+        git diff-index --quiet HEAD || git commit -m "Generate site"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
