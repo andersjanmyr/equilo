@@ -9,3 +9,5 @@ heroSubHeading: 'Help with making decisions in your life.'
 heroBackground: 'images/personal-coaching.jpg'
 ---
 
+I'm a ICF certified coach.
+
