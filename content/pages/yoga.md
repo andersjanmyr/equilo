@@ -8,4 +8,4 @@ heroHeading: 'Yoga'
 heroSubHeading: 'Yoga instruction'
 heroBackground: 'images/sunset.png'
 ---
-
+I'm a certified yoga instructor.
