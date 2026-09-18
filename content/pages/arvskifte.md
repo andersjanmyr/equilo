@@ -3,6 +3,7 @@ title: 'Arvskifte'
 date: 2026-09-18T09:00:00+02:00
 featured: true
 draft: false
+description: 'En trygg och rättvis fördelning av arvet, med en arvskifteshandling som alla dödsbodelägare kan skriva under.'
 weight: 3
 heroHeading: 'Arvskifte'
 heroSubHeading: 'En trygg och rättvis fördelning av arvet.'
@@ -19,3 +20,4 @@ Jag hjälper till med:
 * Att hitta lösningar när delägarna har olika önskemål
 
 Ett väl genomfört arvskifte ger avslut och minskar risken för konflikter i familjen.
+

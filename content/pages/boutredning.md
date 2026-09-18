@@ -3,6 +3,7 @@ title: 'Boutredning'
 date: 2026-09-18T09:00:00+02:00
 featured: true
 draft: false
+description: 'Hjälp att kartlägga dödsboets tillgångar och skulder, upprätta bouppteckningen och förvalta dödsboet fram till arvskiftet.'
 weight: 2
 heroHeading: 'Boutredning'
 heroSubHeading: 'Hjälp med bouppteckning och förvaltning av dödsboet.'
@@ -19,3 +20,4 @@ Jag hjälper dödsbodelägarna med:
 * Löpande förvaltning av dödsboet fram till arvskiftet
 
 Målet är att ni ska känna er trygga med att allt blir rätt, utan att behöva bära det praktiska ansvaret själva.
+

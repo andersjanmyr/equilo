@@ -3,6 +3,7 @@ title: 'Begravningsrådgivning'
 date: 2026-09-18T09:00:00+02:00
 featured: true
 draft: false
+description: 'Stöd och vägledning när någon nära har gått bort, från planering av begravningen till de praktiska frågorna kring dödsboet.'
 weight: 1
 heroHeading: 'Begravningsrådgivning'
 heroSubHeading: 'Stöd och vägledning när någon nära har gått bort.'
@@ -19,3 +20,4 @@ Jag kan bland annat hjälpa till med:
 * Att vara ett stöd och bollplank genom hela processen
 
 Kontakta mig gärna för ett första samtal om hur jag kan hjälpa er.
+

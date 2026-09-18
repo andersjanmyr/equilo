@@ -64,3 +64,51 @@
 .hero-image-blend-overlay {
   background-blend-mode: overlay;
 }
+
+.hero-image-home {
+  height: auto;
+  min-height: 100vh;
+  .container {
+    height: auto;
+    min-height: calc(100vh - 60px);
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .hero-text {
+    width: 100%;
+    h1 {
+      margin-bottom: 40px;
+    }
+  }
+  .hero-blurbs {
+    height: auto;
+  }
+  .hero-blurb {
+    margin-bottom: 30px;
+    h2 {
+      font-size: 1.5rem;
+      margin-bottom: 10px;
+      @include media-breakpoint-up(lg) {
+        font-size: 1.6rem;
+      }
+      a {
+        color: #ffffff;
+        text-decoration: none;
+        border-bottom: 2px solid rgba(255, 255, 255, 0.6);
+        &:hover {
+          border-bottom-color: #ffffff;
+          text-decoration: none;
+        }
+      }
+    }
+    p {
+      font-size: 1.05rem;
+      line-height: 1.5;
+      width: 100%;
+      @include media-breakpoint-up(lg) {
+        font-size: 1.1rem;
+        width: 90%;
+      }
+    }
+  }
+}
