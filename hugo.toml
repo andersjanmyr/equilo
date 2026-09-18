@@ -1,5 +1,6 @@
 baseURL = "/"
-locale = "en-us"
+locale = "sv-SE"
+defaultContentLanguage = "sv"
 title = "Equilo"
 themesDir = "themes"
 theme = "hugo-hero-theme"
@@ -9,36 +10,41 @@ publishdir="docs"
   google_analytics_id="UA-23148826-2"
 
   [params.homepage_meta_tags]
-    meta_description = "Equilo"
+    meta_description = "Equilo – projektledning, coaching och yoga."
     meta_og_title = "Equilo"
     meta_og_type = "website"
     meta_og_url = "https://equilo.se"
     meta_og_image = ""
-    meta_og_description = "Equilo, bla, bla, bla"
+    meta_og_description = "Equilo – projektledning, coaching och yoga."
 
 [[menu.main]]
-    name = "Project Management"
+    identifier = "project-management"
+    name = "Projektledning"
     url = "/project-management/"
     weight = 1
 
 
 [[menu.main]]
-    name = "Corporate Coaching"
+    identifier = "corporate-coaching"
+    name = "Företagscoaching"
     url = "/corporate-coaching/"
     weight = 2
 
 [[menu.main]]
-    name = "Personal Coaching"
+    identifier = "personal-coaching"
+    name = "Personlig coaching"
     url = "/personal-coaching/"
     weight = 3
 
 [[menu.main]]
+    identifier = "yoga"
     name = "Yoga"
     url = "/yoga/"
     weight = 4
 
 [[menu.main]]
-    name = "Contact"
+    identifier = "contact"
+    name = "Kontakt"
     url = "/contact/"
     weight = 5
 

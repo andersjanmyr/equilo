@@ -1,8 +1,8 @@
 ---
-title: 'Project Management'
+title: 'Projektledning'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Project Management'
+button: 'Projektledning'
 buttonLink: 'project-management'
 ---
-My passion is to help people and organizations grow and deliver great results through pragmatic approaches where people take the central role. Processes and tools should support people and teams, not the other way around. Communication, and a bit of fun, is the key to make this work!
+Min passion är att hjälpa människor och organisationer att växa och leverera goda resultat genom pragmatiska arbetssätt där människan står i centrum. Processer och verktyg ska stödja människor och team, inte tvärtom. Kommunikation, och lite humor, är nyckeln till att få det att fungera!

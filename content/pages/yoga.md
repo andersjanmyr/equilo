@@ -5,9 +5,9 @@ icon: 'images/yoga-icon.png'
 featured: true
 draft: false
 heroHeading: 'Yoga'
-heroSubHeading: 'Yoga instruction'
+heroSubHeading: 'Yogaundervisning'
 heroBackground: 'images/sunset.png'
 ---
 
-I'm a certified yoga instructor.
+Jag är certifierad yogainstruktör.
 

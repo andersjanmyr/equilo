@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Page Not Found on Equilo</title>
-		<link>/404/</link>
-		<description>Recent content in Page Not Found on Equilo</description>
+		<title>Sidan hittades inte on Equilo</title>
+		<link>//localhost:1313/404/</link>
+		<description>Recent content in Sidan hittades inte on Equilo</description>
 		<generator>Hugo</generator>
-		<language>en-us</language>
+		<language>sv-SE</language>
 		
 		
 		
 		
 			<lastBuildDate></lastBuildDate>
 		
-			<atom:link href="/404/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="//localhost:1313/404/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

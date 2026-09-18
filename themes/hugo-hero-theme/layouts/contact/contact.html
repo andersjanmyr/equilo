@@ -17,11 +17,11 @@
     <div class="col-12 col-md-8">
       {{ .Content }}
       <ul>
-        <li><strong>Phone: </strong>{{ hugo.Data.contact.phone }}</li>
-        <li><strong>Email: </strong><a href="mailto:{{ hugo.Data.contact.email }}">
+        <li><strong>Telefon: </strong>{{ hugo.Data.contact.phone }}</li>
+        <li><strong>E-post: </strong><a href="mailto:{{ hugo.Data.contact.email }}">
             {{ hugo.Data.contact.email }}</a></li>
         {{ if hugo.Data.contact.address }}
-        <li><strong>Address: </strong>{{ hugo.Data.contact.address }}</li>
+        <li><strong>Adress: </strong>{{ hugo.Data.contact.address }}</li>
         {{ end }}
       </ul>
     </div>
