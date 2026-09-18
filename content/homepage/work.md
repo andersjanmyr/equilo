@@ -1,8 +1,8 @@
 ---
-title: 'Projektledning'
+title: 'Begravningsrådgivning'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Projektledning'
-buttonLink: 'project-management'
+button: 'Läs mer'
+buttonLink: 'begravningsradgivning'
 ---
-Min passion är att hjälpa människor och organisationer att växa och leverera goda resultat genom pragmatiska arbetssätt där människan står i centrum. Processer och verktyg ska stödja människor och team, inte tvärtom. Kommunikation, och lite humor, är nyckeln till att få det att fungera!
+När någon nära går bort är det mycket som ska ordnas, ofta mitt i sorgen. Jag hjälper dig med begravningen, boutredningen och arvskiftet, så att du får överblick och kan fatta beslut i lugn och ro.

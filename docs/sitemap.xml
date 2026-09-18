@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/project-management/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+    <loc>/begravningsradgivning/</loc>
+    <lastmod>2026-09-18T09:00:00+02:00</lastmod>
   </url><url>
-    <loc>/pages/</loc>
-    <lastmod>2018-11-28T15:15:34+10:00</lastmod>
+    <loc>/boutredning/</loc>
+    <lastmod>2026-09-18T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/arvskifte/</loc>
+    <lastmod>2026-09-18T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>/ovriga-tjanster/</loc>
+    <lastmod>2026-09-18T09:00:00+02:00</lastmod>
   </url><url>
     <loc>/yoga/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
@@ -16,6 +22,12 @@
   </url><url>
     <loc>/corporate-coaching/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url><url>
+    <loc>/project-management/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url><url>
+    <loc>/pages/</loc>
+    <lastmod>2026-09-18T09:00:00+02:00</lastmod>
   </url><url>
     <loc>/contact/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>

@@ -10,36 +10,35 @@ publishdir="docs"
   google_analytics_id="UA-23148826-2"
 
   [params.homepage_meta_tags]
-    meta_description = "Equilo – projektledning, coaching och yoga."
+    meta_description = "Equilo – begravningsrådgivning, boutredning och arvskifte."
     meta_og_title = "Equilo"
     meta_og_type = "website"
     meta_og_url = "https://equilo.se"
     meta_og_image = ""
-    meta_og_description = "Equilo – projektledning, coaching och yoga."
+    meta_og_description = "Equilo – begravningsrådgivning, boutredning och arvskifte."
 
 [[menu.main]]
-    identifier = "project-management"
-    name = "Projektledning"
-    url = "/project-management/"
+    identifier = "funeral-advisory"
+    name = "Begravningsrådgivning"
+    url = "/begravningsradgivning/"
     weight = 1
 
-
 [[menu.main]]
-    identifier = "corporate-coaching"
-    name = "Företagscoaching"
-    url = "/corporate-coaching/"
+    identifier = "estate-inventory"
+    name = "Boutredning"
+    url = "/boutredning/"
     weight = 2
 
 [[menu.main]]
-    identifier = "personal-coaching"
-    name = "Personlig coaching"
-    url = "/personal-coaching/"
+    identifier = "estate-distribution"
+    name = "Arvskifte"
+    url = "/arvskifte/"
     weight = 3
 
 [[menu.main]]
-    identifier = "yoga"
-    name = "Yoga"
-    url = "/yoga/"
+    identifier = "other-services"
+    name = "Övriga tjänster"
+    url = "/ovriga-tjanster/"
     weight = 4
 
 [[menu.main]]
