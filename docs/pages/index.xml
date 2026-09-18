@@ -1,62 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on Equilo</title>
-    <link>/pages/</link>
-    <description>Recent content in Pages on Equilo</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
-    
-	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Project Management</title>
-      <link>/project-management/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>/project-management/</guid>
-      <description>I am a positive, driven and structured Senior Project Manager, Coach and Entrepreneur with 20 years of experience within the IT industry.
-My passion is to help people and organizations grow and deliver great results through pragmatic approaches where people take the central role. Processes and tools should support people and teams, not the other way around. Communication, and a bit of fun, is the key to make this work!</description>
-    </item>
-    
-    <item>
-      <title>Yoga</title>
-      <link>/yoga/</link>
-      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
-      
-      <guid>/yoga/</guid>
-      <description>I&amp;rsquo;m a certified yoga instructor.</description>
-    </item>
-    
-    <item>
-      <title>Personal Coaching</title>
-      <link>/personal-coaching/</link>
-      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
-      
-      <guid>/personal-coaching/</guid>
-      <description>I&amp;rsquo;m an ICF certified coach.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      
-      <guid>/contact/</guid>
-      <description> Phone: +46 (0)704-32 24 90 Email: sara@equilo.se  </description>
-    </item>
-    
-    <item>
-      <title>Corporate Coaching</title>
-      <link>/corporate-coaching/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      
-      <guid>/corporate-coaching/</guid>
-      <description>&amp;ldquo;Starta Eget&amp;rdquo; advisor with Nyföretagarcentrum Öresund, based in Staffanstorps kommun. Contact me if you are thinking about starting your own company or you need advise and support.
-Nyföretagarcentrum is located in more than 215 counties. Their goal is increased entrepreneurship and more small sustainable companies. It is mainly financed by local industries. Every year it gives advise to more than 20,000 people at no individual cost. More than 90% of their customers are satisfied.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Pages on Equilo</title>
+		<link>/pages/</link>
+		<description>Recent content in Pages on Equilo</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
+		
+			<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Project Management</title>
+				<link>/project-management/</link>
+				<pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+				<guid>/project-management/</guid>
+				<description>&lt;p&gt;I am a positive, driven and structured Senior Project Manager, Coach and Entrepreneur with 20 years of experience within the IT industry.&lt;/p&gt;&#xA;&lt;p&gt;My passion is to help people and organizations grow and deliver great results through pragmatic approaches where people take the central role. Processes and tools should support people and teams, not the other way around. Communication, and a bit of fun, is the key to make this work!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Yoga</title>
+				<link>/yoga/</link>
+				<pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+				<guid>/yoga/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m a certified yoga instructor.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Personal Coaching</title>
+				<link>/personal-coaching/</link>
+				<pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+				<guid>/personal-coaching/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m an ICF certified coach.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Contact</title>
+				<link>/contact/</link>
+				<pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+				<guid>/contact/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Phone: +46 (0)704-32 24 90&lt;/li&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:sara@equilo.se&#34;&gt;sara@equilo.se&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Corporate Coaching</title>
+				<link>/corporate-coaching/</link>
+				<pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+				<guid>/corporate-coaching/</guid>
+				<description>&lt;p&gt;&amp;ldquo;Starta Eget&amp;rdquo; advisor with Nyföretagarcentrum Öresund, based in Staffanstorps&#xA;kommun. Contact me if you are thinking about starting your own company or you&#xA;need advise and support.&lt;/p&gt;&#xA;&lt;p&gt;Nyföretagarcentrum is located in more than 215 counties. Their goal is&#xA;increased entrepreneurship and more small sustainable companies. It is mainly&#xA;financed by local industries. Every year it gives advise to more than 20,000&#xA;people at no individual cost. More than 90% of their customers are satisfied.&#xA;&lt;a href=&#34;https://www.nyforetagarcentrum.se/oresund&#34;&gt;https://www.nyforetagarcentrum.se/oresund&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

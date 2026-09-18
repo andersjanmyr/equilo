@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-us"
+locale = "en-us"
 title = "Equilo"
 themesDir = "themes"
 theme = "hugo-hero-theme"

@@ -9,11 +9,18 @@ jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - name: Check out code
-      uses: actions/checkout@master
+      uses: actions/checkout@v4
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v3
+      with:
+        hugo-version: '0.166.0'
+        extended: true
     - name: Hugo build
-      uses: lowply/build-hugo@v0.58.3
+      run: hugo
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"

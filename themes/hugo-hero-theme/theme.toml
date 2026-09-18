@@ -5,7 +5,7 @@ description = "Hero is a multipurpose theme with fullscreen hero images and full
 homepage = "https://github.com/jugglerx/hugo-hero-theme"
 tags = ["responsive","minimal","clean","company","portfolio","bootstrap","zerostatic"]
 features = ["services","work","fullwidth","hero images"]
-min_version = 0.51
+min_version = "0.146.0"
 
 [author]
   name = "Robert Austin"
