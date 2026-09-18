@@ -71,10 +71,10 @@
 			</item>
 			<item>
 				<title>Kontakt</title>
-				<link>/contact/</link>
+				<link>/kontakt/</link>
 				<pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-				<guid>/contact/</guid>
-				<description>&lt;ul&gt;&#xA;&lt;li&gt;Telefon: +46 (0)704-32 24 90&lt;/li&gt;&#xA;&lt;li&gt;E-post: &lt;a href=&#34;mailto:sara@equilo.se&#34;&gt;sara@equilo.se&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+				<guid>/kontakt/</guid>
+				<description>&lt;div class=&#34;notice&#34;&gt;&#xA;  &lt;strong&gt;Söker du information om lån?&lt;/strong&gt; Då har du hamnat hos fel Equilo. Frågor som rör lån hanteras av Equilo på equilo.com. &lt;a href=&#34;https://www.equilo.com/#contact&#34;&gt;Kontakta dem här&lt;/a&gt;.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Telefon: +46 (0)704-32 24 90&lt;/li&gt;&#xA;&lt;li&gt;E-post: &lt;a href=&#34;mailto:sara@equilo.se&#34;&gt;sara@equilo.se&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
 </rss>

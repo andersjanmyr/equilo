@@ -1,0 +1,22 @@
+.notice {
+  background-color: #fff8e1;
+  border-left: 6px solid #f0a500;
+  border-radius: 4px;
+  padding: 20px 24px;
+  margin: 0 0 40px 0;
+  font-size: 1.1rem;
+  line-height: 1.5;
+  p {
+    margin: 0;
+    color: #333333 !important;
+    font-size: inherit !important;
+    font-weight: 400 !important;
+    line-height: inherit !important;
+    margin-bottom: 0 !important;
+  }
+  a {
+    color: #333333;
+    font-weight: 700;
+    text-decoration: underline;
+  }
+}
