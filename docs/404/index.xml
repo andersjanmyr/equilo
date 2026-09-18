@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Sidan hittades inte on Equilo</title>
-		<link>//localhost:1313/404/</link>
+		<link>/404/</link>
 		<description>Recent content in Sidan hittades inte on Equilo</description>
 		<generator>Hugo</generator>
 		<language>sv-SE</language>
@@ -12,6 +12,6 @@
 		
 			<lastBuildDate></lastBuildDate>
 		
-			<atom:link href="//localhost:1313/404/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="/404/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Hem on Equilo</title>
-		<link>//localhost:1313/</link>
+		<link>/</link>
 		<description>Recent content in Hem on Equilo</description>
 		<generator>Hugo</generator>
 		<language>sv-SE</language>
@@ -12,40 +12,40 @@
 		
 			<lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
 		
-			<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Projektledning</title>
-				<link>//localhost:1313/project-management/</link>
+				<link>/project-management/</link>
 				<pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-				<guid>//localhost:1313/project-management/</guid>
+				<guid>/project-management/</guid>
 				<description>&lt;p&gt;Jag är en positiv, driven och strukturerad senior projektledare, coach och entreprenör med 20 års erfarenhet från IT-branschen.&lt;/p&gt;&#xA;&lt;p&gt;Min passion är att hjälpa människor och organisationer att växa och leverera goda resultat genom pragmatiska arbetssätt där människan står i centrum. Processer och verktyg ska stödja människor och team, inte tvärtom. Kommunikation, och lite humor, är nyckeln till att få det att fungera!&lt;/p&gt;&#xA;&lt;p&gt;Jag har bred erfarenhet av att leverera IT-projekt, från utmanande och komplexa globala integrationsprojekt till interna processförbättringsprojekt, hos flera av Sveriges största tillverkningsföretag.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Yoga</title>
-				<link>//localhost:1313/yoga/</link>
+				<link>/yoga/</link>
 				<pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
-				<guid>//localhost:1313/yoga/</guid>
+				<guid>/yoga/</guid>
 				<description>&lt;p&gt;Jag är certifierad yogainstruktör.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Personlig coaching</title>
-				<link>//localhost:1313/personal-coaching/</link>
+				<link>/personal-coaching/</link>
 				<pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
-				<guid>//localhost:1313/personal-coaching/</guid>
+				<guid>/personal-coaching/</guid>
 				<description>&lt;p&gt;Jag är ICF-certifierad coach.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Företagscoaching</title>
-				<link>//localhost:1313/corporate-coaching/</link>
+				<link>/corporate-coaching/</link>
 				<pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-				<guid>//localhost:1313/corporate-coaching/</guid>
+				<guid>/corporate-coaching/</guid>
 				<description>&lt;p&gt;&amp;ldquo;Starta eget&amp;rdquo;-rådgivare hos Nyföretagarcentrum Öresund, med bas i Staffanstorps&#xA;kommun. Kontakta mig om du funderar på att starta eget företag eller behöver&#xA;råd och stöd.&lt;/p&gt;&#xA;&lt;p&gt;Nyföretagarcentrum finns i över 215 kommuner. Målet är ökat entreprenörskap&#xA;och fler små, hållbara företag. Verksamheten finansieras huvudsakligen av det&#xA;lokala näringslivet. Varje år får över 20 000 personer kostnadsfri rådgivning.&#xA;Mer än 90 % av kunderna är nöjda.&#xA;&lt;a href=&#34;https://www.nyforetagarcentrum.se/oresund&#34;&gt;https://www.nyforetagarcentrum.se/oresund&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Kontakt</title>
-				<link>//localhost:1313/contact/</link>
+				<link>/contact/</link>
 				<pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-				<guid>//localhost:1313/contact/</guid>
+				<guid>/contact/</guid>
 				<description>&lt;ul&gt;&#xA;&lt;li&gt;Telefon: +46 (0)704-32 24 90&lt;/li&gt;&#xA;&lt;li&gt;E-post: &lt;a href=&#34;mailto:sara@equilo.se&#34;&gt;sara@equilo.se&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
