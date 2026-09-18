@@ -2,8 +2,9 @@
 title: 'Företagscoaching'
 date: 2018-11-28T15:14:39+10:00
 icon: 'images/elephant.png'
-featured: true
+featured: false
 draft: false
+weight: 10
 heroHeading: 'Företagscoaching'
 heroSubHeading: 'Råd och vägledning när du startar ditt nya företag.'
 heroBackground: 'images/service2.jpg'
