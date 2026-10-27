@@ -1,7 +1,9 @@
 # Equilo
 
 Source code for [equilo.se](https://equilo.se), a Swedish website about
-project management, coaching and yoga.
+funeral advisory (begravningsrådgivning), estate inventory (boutredning) and
+estate distribution (arvskifte), with project management, coaching and yoga
+offered as additional services.
 
 The site is built with [Hugo](https://gohugo.io/), a static site generator.
 That means the site is just a set of text files (Markdown) that Hugo turns into
@@ -14,12 +16,13 @@ It covers both macOS and Windows.
 
 ```
 content/            The text of every page (Markdown files). Edit these.
-  homepage/         The boxes shown on the start page
-  pages/            One file per page (Projektledning, Yoga, Kontakt, ...)
+  _index.md         The start page heading and background image
+  pages/            One file per page (Begravningsrådgivning, Kontakt, ...)
+  homepage/         No longer used by the design. Can be ignored.
 data/               Contact details and social media links (YAML/JSON)
 static/images/      Pictures used on the site
 hugo.toml           Site settings and the main menu
-themes/             The visual design (hugo-hero-theme). Rarely needs editing.
+themes/             The visual design (hugo-hero-theme, with local changes)
 docs/               The generated website. Do not edit by hand (see Deploying).
 .github/workflows/  The automation that builds and publishes the site
 ```
@@ -116,8 +119,11 @@ settings block at the top (between the `---` lines) and the page text below.
 
 ```markdown
 ---
-title: 'Yoga'
-heroHeading: 'Yoga'
+title: 'Boutredning'
+featured: true
+weight: 2
+description: 'A short summary shown on the start page'
+heroHeading: 'Boutredning'
 heroSubHeading: 'A short line shown under the heading'
 heroBackground: 'images/service1.jpg'
 ---
@@ -129,8 +135,37 @@ Edit the text, save, and check the result in the browser.
 
 ### Edit the start page
 
-The boxes on the start page are the files in `content/homepage/`. The `weight`
-setting controls the order. Lower numbers come first.
+The start page shows a heading and background image from `content/_index.md`,
+followed by up to three short blurbs. The blurbs are taken from the pages in
+`content/pages/` that have `featured: true`. Each blurb shows the page's
+`title` and `description`, and `weight` controls the order. Lower numbers
+come first.
+
+To put a different page on the start page, set `featured: true` in that page
+and give it a `description`. To remove a page from the start page, set
+`featured: false`.
+
+### Show a highlighted notice on a page
+
+Wrap text in the `notice` shortcode to show it in a highlighted box. The
+contact page uses this to redirect people looking for the loan company with
+a similar name:
+
+```markdown
+{{< notice >}}
+**Söker du information om lån?** Då har du hamnat fel!
+{{< /notice >}}
+```
+
+### Redirect an old address
+
+If you rename a page, add the old address under `aliases` so old links keep
+working. The contact page does this because it used to live at `/contact/`:
+
+```yaml
+aliases:
+    - /contact/
+```
 
 ### Change the menu
 
@@ -155,12 +190,15 @@ Keep images reasonably small (under about 500 KB) so the site stays fast.
 
 ### Add a new page
 
-1. Copy an existing file in `content/pages/`, for example `yoga.md`, and give
-   it a new name such as `new-page.md`. The file name becomes the address,
-   so this example is reachable at `/new-page/`.
-2. Change the `title` and text.
+1. Copy an existing file in `content/pages/`, for example `boutredning.md`,
+   and give it a new name such as `new-page.md`. The file name becomes the
+   address, so this example is reachable at `/new-page/`.
+2. Change the `title` and text. Set `featured: false` unless the page should
+   also appear on the start page.
 3. Add a `[[menu.main]]` block in `hugo.toml` if the page should appear in the
-   menu.
+   menu. Pages that are not in the menu, such as the old project management,
+   coaching and yoga pages, are still reachable by their address and can be
+   linked to from other pages. See `ovriga-tjanster.md` for an example.
 
 ## 5. Publish your changes
 
@@ -175,8 +213,8 @@ Publishing is done with Git. The commands are the same on macOS and Windows.
 2. Stage and commit the changes with a short message describing what you did:
 
    ```bash
-   git add content/pages/yoga.md
-   git commit -m "Update the yoga page"
+   git add content/pages/boutredning.md
+   git commit -m "Update the estate inventory page"
    ```
 
    Use `git add .` to stage every changed file at once.
@@ -187,9 +225,22 @@ Publishing is done with Git. The commands are the same on macOS and Windows.
    git push
    ```
 
-A few minutes after you push, GitHub builds the site and the change is live
-at equilo.se. You can follow the build under the "Actions" tab of the
-repository on GitHub.
+If you are on the `master` branch, GitHub builds the site a few minutes after
+you push and the change is live at equilo.se. You can follow the build under
+the "Actions" tab of the repository on GitHub.
+
+Work in progress can live on another branch, such as `begravning`. Pushing to
+a branch saves the work on GitHub but does not publish it. To publish, merge
+the branch into `master`:
+
+```bash
+git checkout master
+git pull
+git merge begravning
+git push
+```
+
+Use `git branch` to see which branch you are on.
 
 Before you start a new round of changes, fetch what others have pushed:
 
